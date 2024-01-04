@@ -1,0 +1,114 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "AI Service Center"
+# Using theme as git submodule 
+theme = "beautifulhugo"
+# Or when using theme as hugo module
+# theme = "github.com/halogenica/beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  homeTitle = "KISZ" # Set a different text for the header on the home page
+  subtitle = "AI Service Center for Berlin and Brandenburg @ Hasso Plattner Institute"
+  mainSections = ["post","posts"]
+  #logo = "img/KISZ_HPI_Logo.png" # Expecting square dimensions
+  favicon = "img/HPI_logo.svg"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = ""
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = ""
+  # position: see values of CSS background-position.
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
+  desc = ""
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  website = "https://hpi.de/kisz/home.html"
+  email = "kisz@hpi.de"
+  #facebook = "username"
+  github = "KISZ-BB"
+  #twitter = "username"
+  #instagram = "username"
+
+
+[[menu.main]]
+    name = "Home"
+    url = "page/home/"
+    weight = 1
+
+[[menu.main]]
+    name = "Workshops"
+    url = ""
+    weight = 2
+
+
+[[menu.main]]
+    parent = "Workshops"
+    name = "Image Dataset Curation"
+    url = "post/image_dataset_curation"
+    weight = 1
+
+[[menu.main]]
+    parent = "Workshops"
+    name = "Embeddings"
+    url = "post/embeddings"
+    weight = 2
+
+
+[[menu.main]]
+    parent = "Workshops"
+    name = "Docker and FastAPI"
+    url = "post/docker"
+    weight = 4
+
+[[menu.main]]
+    parent = "Workshops"
+    name = "Speech to Summary"
+    url = "post/speech_to_summary"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Computing Resources"
+    url = "page/computing_resources/"
+    weight = 5
+
+[[menu.main]]
+    name = "Education"
+    url = "page/education/"
+    weight = 3  
+
+[[menu.main]]
+    name = "Consulting"
+    url = "page/consulting/"
+    weight = 4
+ 
+[[menu.main]]
+    name = "Imprint and Privacy Notice"
+    url = "page/imprint_and_privacy/"
+    weight = 6
