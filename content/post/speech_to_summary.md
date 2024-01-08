@@ -12,11 +12,7 @@ weight: 3
 
 ## Overview
 On January 30, 2024 from 10 a.m. to 1 p.m. we offer the free workshop “Speech2Summary: Pre-trained AI Models” again on site at HPI.  
- 
-This hands-on workshop on the selection, implementation and evaluation of pre-trained large language models is aimed at Python developers. 
 
-
-## Description
 This workshop focuses on:
 - Selection, implementation, and evaluation of pre-trained large language models
 - Application for transcription and summarization of meetings
@@ -24,10 +20,10 @@ This workshop focuses on:
 - Advantages and evaluation of pre-trained models
 - Deployment options with a REST backend
 
-### Audience
-- Aimed at Python developers
+## Audience
+This workshop is aimed at Python developers.
 
-### Registration
+## Registration
 [Register here](https://hpi.de/en/the-hpi/registration/2024/workshop-speech2summary/) to learn about pre-trained large language models.
 
 ## Event Details

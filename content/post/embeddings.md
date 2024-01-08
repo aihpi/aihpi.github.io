@@ -12,16 +12,19 @@ weight: 2
 ## Overview
 
 On January 23, 2024 from 10 a.m. to 1 p.m. we offer again the free AI workshop “Working with Embeddings: An Introductory Workshop with Applications on Semantic Search” on site at HPI.   
- 
-All AI enthusiasts, data scientists and developers are welcome to this hands-on workshop on the development of effective embeddings using the example of semantic search. Basic Python knowledge is required.
 
-
-## Description
 This hands-on workshop focuses on:
 - Exploring proven embeddings, like the bag-of-words model
 - Applications and considerations for building a semantic search engine
 - Modern techniques for developing embeddings
 - Practical application: Testing and evaluating embeddings in semantic search
+
+## Audience
+ 
+All AI enthusiasts, data scientists and developers are welcome to this hands-on workshop on the development of effective embeddings using the example of semantic search. Basic Python knowledge is required.
+
+## Language
+The workshop will be taught in English.
 
 ## Registration
 [Register here](https://hpi.de/en/the-hpi/registration/2024/embeddings-workshop/) to learn how to develop embeddings for semantic search applications.

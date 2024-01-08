@@ -17,7 +17,13 @@ This workshop is designed for those who have a trained AI model and want to oper
 - Containerization with Docker
 - Creating AI interfaces using FastAPI
 
-### Registration
+## Audience
+This workshop is aimed at Python developers.
+
+## Language
+The workshop will be taught in English.
+
+## Registration
 [Sign up now](https://hpi.de/en/the-hpi/registration/2024/docker-workshop/) to learn effective AI model deployment techniques.
 
 ## Event Details
