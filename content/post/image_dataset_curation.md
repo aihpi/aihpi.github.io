@@ -37,29 +37,38 @@ The workshop will be taught in English.
 ## Session Details
 This is part one of a series of workshops on image dataset curation and computer vision. Each workshop will teach separate topics. It is ideal, but not necessary to attend all sessions.  
 
-### January Session
-- **Date:** January 22, 2024
+### January 22nd Session
 - **Time:** 10:30 a.m. - 1:30 p.m.
 - **Location:** Building H, HPI
 - **Room:** HE.51/52
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://maps.app.goo.gl/4zN71qpn5tH4hH8T7)
+- [Registration link](https://hpi.de/das-hpi/registrierung/2024/art-recommendation-system/)
 
-### February Sessions
-1. **Date:** February 05, 2024
-   - **Time:** 1:00 p.m. - 4:00 p.m.
-[Registration link](https://hpi.de/en/the-hpi/registration/2024/workshop-image-dataset-curation/)   
-2. **Date:** February 19, 2024
-   - **Time:** 10:30 a.m. - 1:30 p.m.
-[Registration link](https://hpi.de/en/the-hpi/registration/2024/workshop-image-dataset-curation-2/)
+### February 5th Session
+- **Time:** 5:30 p.m. - 8:30 p.m.
+- **Location:** Building H, HPI
+- **Room:** H-2.57/58
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam 
+- [Directions](https://maps.app.goo.gl/4zN71qpn5tH4hH8T7)
+- [Registration link](https://hpi.de/das-hpi/registrierung/2024/workshop-image-dataset-curation/)
 
-### March Session
-- **Date:** March 04, 2024
-- **Time:** 1:00 p.m. - 4:00 p.m.
-[Registration link](https://hpi.de/en/the-hpi/registration/2024/workshop-image-dataset-curation-3/)
+### February 19th Session
+- **Time:** 5:30 p.m. - 8:30 p.m.
+- **Location:** Building H, HPI
+- **Room:**  HE.51/52
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam 
+- [Directions](https://maps.app.goo.gl/4zN71qpn5tH4hH8T7)
+- [Registration link](https://hpi.de/das-hpi/registrierung/2024/workshop-image-dataset-curation-2/)
 
-### Location for February and March Sessions
-- **Building:** D (Campus II, last building in Stahnsdorferstraße)
-- **Room:** D-E.9/10
-- **Address:** August-Bebel-Straße 88, 14482 Potsdam
-- [Directions](https://maps.app.goo.gl/96kJqHGHRve3Z4VT9)
+
+### March 4th Session
+- **Time:** 5:30 p.m. - 8:30 p.m.
+- **Location:** Building K, HPI
+- **Room:** K-1.04
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam 
+- [Directions](https://maps.app.goo.gl/4zN71qpn5tH4hH8T7)
+- [Registration link](https://hpi.de/das-hpi/registrierung/2024/workshop-image-dataset-curation-3/)
+
+
+

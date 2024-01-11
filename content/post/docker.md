@@ -26,10 +26,12 @@ The workshop will be taught in English.
 ## Registration
 [Sign up now](https://hpi.de/en/the-hpi/registration/2024/docker-workshop/) to learn effective AI model deployment techniques.
 
-## Event Details
-- **Date:** February 06, 2024
-- **Time:** 10 a.m. - 1 p.m.
+## Session details
+This workshop is scheduled in the following dates.
+
+### February 6th Session
+- **Time:** 5:30 pm - 8:30 pm
 - **Location:** Building H, HPI (main building)
-- **Room:** HE.51/52
+- **Room:** H-2.57/58
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://hpi.de/en/the-hpi/organization/directions.html)

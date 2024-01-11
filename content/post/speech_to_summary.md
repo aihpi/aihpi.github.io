@@ -26,9 +26,11 @@ This workshop is aimed at Python developers.
 ## Registration
 [Register here](https://hpi.de/en/the-hpi/registration/2024/workshop-speech2summary/) to learn about pre-trained large language models.
 
-## Event Details
-- **Date:** January 30, 2024
-- **Time:** 10 a.m. - 1 p.m.
+## Session Details
+This workshop is scheduled on the following dates.
+
+### January 30th Session
+- **Time:** 5:30 pm 
 - **Location:** Building H, HPI (main building)
 - **Room:** HE.51/52
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam

@@ -29,10 +29,33 @@ The workshop will be taught in English.
 ## Registration
 [Register here](https://hpi.de/en/the-hpi/registration/2024/embeddings-workshop/) to learn how to develop embeddings for semantic search applications.
 
-## Event Details
-- **Date:** January 23, 2024
+## Session Details
+This workshop will be taught in the following dates. 
+
+### January 23rd Session
 - **Time:** 10 a.m. - 1 p.m.
 - **Location:** Building H, HPI (main building)
 - **Room:** HE.51/52
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
+- [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
+
+### February 2nd Session
+- **Time:** 10 a.m. - 1 p.m.
+- **Location:** To be announced
+- **Room:** To be announced
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
+- [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
+
+### February 21st Session
+- **Time:** 10 a.m. - 1 p.m.
+- **Location:** To be announced
+- **Room:** To be announced
+- **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
+- [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
+
+### February 28th Session
+- **Time:** 10 a.m. - 1 p.m.
+- **Location:** To be announced
+- **Room:** To be announced
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
