@@ -41,21 +41,21 @@ This workshop will be taught in the following dates.
 
 ### February 2nd Session
 - **Time:** 10 a.m. - 1 p.m.
-- **Location:** To be announced
-- **Room:** To be announced
+- **Location:**  Building H, HPI (main building)
+- **Room:**  H-2.57/58
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
 
 ### February 21st Session
 - **Time:** 10 a.m. - 1 p.m.
-- **Location:** To be announced
-- **Room:** To be announced
+- **Location:** Building K, HPI
+- **Room:** K-1.04
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
 
 ### February 28th Session
 - **Time:** 10 a.m. - 1 p.m.
-- **Location:** To be announced
-- **Room:** To be announced
+- **Location:** Building H, HPI (main building)
+- **Room:** H-E.51/52
 - **Address:** Prof.-Dr.-Helmert-Straße 2-3, 14482 Potsdam
 - [Directions](https://hpi.de/en/the-hpi/organization/directions.html)
