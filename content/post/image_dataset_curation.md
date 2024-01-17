@@ -10,7 +10,7 @@ weight: 1
 
 ## Overview
 
-On January 22, 2024 from 10:30 a.m. to 1:30 p.m. we offer the free workshop “Image Dataset Curation – Art Recommendation System” on site at HPI and online via Zoom.
+On January 22, 2024 from 10:30 a.m. to 1:30 p.m. we offer the free workshop “Image Dataset Curation – Art Recommendation System” on site at HPI.
 
 Learn to build an art recommendation system using machine learning. The workshop covers:
 - Ethical scraping of artwork images in the public domain
