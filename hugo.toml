@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "KISZ" # Set a different text for the header on the home page
+  homeTitle = "AI-HPI" # Set a different text for the header on the home page
   subtitle = "AI Service Center for Berlin and Brandenburg @ Hasso Plattner Institute"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
