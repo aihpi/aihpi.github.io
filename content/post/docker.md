@@ -2,11 +2,11 @@
 title: Docker and FastAPI Workshop - February 6, 2024
 date: 2024-01-03
 showthedate: true
-image: "/img/DockerWorkshop.jpg"
+image: "/img/docker_orange_noice_english.jpg"
 weight: 4
 ---
 
-![](/img/DockerWorkshop.jpg)
+![](/img/docker_orange_noice_english.jpg)
 
 # Workshop: Deploying AI Models with Docker and FastAPI
 

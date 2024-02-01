@@ -1,12 +1,12 @@
 ---
 title: Speech to Summary Workshop - January 30, 2024
 date: 2024-01-03
-image: "/img/SpeechToSummary.jpg"
+image: "/img/speech_2_summary_eng.jpg"
 weight: 3
 ---
 
 
-![](/img/SpeechToSummary.jpg)
+![](/img/speech_2_summary_eng.jpg)
 
 # Workshop: Speech2Summary – Pre-trained AI Models
 

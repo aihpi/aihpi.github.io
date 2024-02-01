@@ -1,11 +1,11 @@
 ---
 title: Building a Retrieval Augmented Generation System - February 07, 2024
 date: 2024-01-03
-image: "/img/rag_image.png"
+image: "/img/local_rag_dodecahedron_english.jpg"
 weight: 1
 ---
 
-![](/img/rag_image.png)
+![](/img/local_rag_dodecahedron_english.jpg)
 # Workshop: Building a Retrieval Augmented Generation System
 
 ## Overview

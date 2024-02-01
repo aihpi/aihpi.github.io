@@ -1,11 +1,11 @@
 ---
 title: Image Dataset Curation and Art Recommendation Workshop - January 22, 2024
 date: 2024-01-03
-image: "/img/Image_Dataset_Curation.jpg"
+image: "/img/image_dataset_curation_english.jpg"
 weight: 1
 ---
 
-![](/img/Image_Dataset_Curation.jpg)
+![](/img/image_dataset_curation_english.jpg)
 # Workshop: Image Dataset Curation – Art Recommendation System
 
 ## Overview
