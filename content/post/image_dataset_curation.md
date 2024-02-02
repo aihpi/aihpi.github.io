@@ -1,5 +1,5 @@
 ---
-title: Image Dataset Curation and Art Recommendation Workshop - January 22, 2024
+title: Image Dataset Curation and Art Recommendation Workshop - February 05, 2024
 date: 2024-01-03
 image: "/img/image_dataset_curation_english.jpg"
 weight: 1
