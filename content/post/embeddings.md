@@ -1,5 +1,5 @@
 ---
-title: Working with Embeddings Workshop - January 23, 2024
+title: Working with Embeddings Workshop - February 21, 2024
 date: 2024-01-03
 image: '/img/working_with_embeddings_english.jpg'
 weight: 2
