@@ -1,6 +1,6 @@
 ---
 title: Home
-subtitle: Welcome to the AI Service Center for Berlin-Brandenburg at the Hasso Plattner Institute
+subtitle: Welcome to the AI Expert Blog by the AI Service Center at the Hasso Plattner Institute
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 

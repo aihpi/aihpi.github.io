@@ -1,36 +1,67 @@
 ---
-title: Education
-subtitle: We provide free and practical workshops on AI
+title: AI Expert Certification
+subtitle: Accreditation for artificial intelligence experts
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 
-## Introduction to Practical Artificial Intelligence
-In collaboration with [Mittelstand Digital Zentrum Berlin at HPI](https://digitalzentrum-berlin.de/), KISZ provides a practical and business-oriented introduction to artificial intelligence. We cover basic concepts and applications using real use cases.
+# AI Engineer Certification
 
-We use  five levels of professionalization to structure our professional workshops.
+To acquire an AI Engineer Certification, candidates must first obtain the following AI Expert Certifications, offered by AI Service Center at HPI:
 
-![](/img/bildung.png)
+- **Training and Evaluating Machine Learning Models Certification (ML Expert)**
+- **MLOps Certification**
+- **Responsible AI Certification**
+
+Additionally, they must achieve at least three of the following AI Expert Certifications:
+
+- **Computer Vision Certification**
+- **Natural Language Processing Certification**
+- **Multimodal ML Certification**
+- **Generative AI Certification**
+
+The optional AI Expert certifications have overlapping content. For example, both the Computer Vision and NLP certifications cover topics in image and text generation that intersect with the Generative AI Certification. This structure allows candidates to select a path aligning with their focus and adds value to their careers while maintaining rigor.
+
+## Evaluation
+
+To acquire the certificates, candidates must pass both:
+
+- **Knowledge test** (either live at HPI or online and proctored through Proctorio)
+- **Interview based on a portfolio project** (public Github repository) related to the content of the certification
+
+A list of suggested portfolio projects for each certification will be published on the AI Expert Blog.
 
 
-### First Professionalization Level Workshop Topics:
+## Cost
 
-- **AI Business Models:** Understand AI's use in various industries and business contexts.
-- **Development - Design Sprint:** Employ iterative, collaborative methods for AI project development.
-- **Iteration - Design Sprint:** Use feedback loops and iterative processes for AI application improvement.
+Each evaluation will carry a fee of 200 EUR. 
 
-### Level 2: AI Infrastructure and Tools
-Second level workshops focus on developing and applying AI models and pipelines for problem-solving and decision-making.
+We intend to subsidize a significant portion of the exam cost for the initial groups of candidates. Candidates that score over 90% in both evaluations individually will receive a full refund, as long as funding is available.
 
-**Topics include:**
+## Validity
 
-- **AI Infrastructure Selection:** Evaluate whether to purchase AI-suitable infrastructure or use cloud services. Consider training-to-inference ratio.
-- **Tool Selection:** Choose and set up resources and tools for AI model development, deployment, and usage.
+Certificates will be valid for five years.
 
-### Levels 3 - 5: AI Model Optimization, Automation, and Scaling
-Advanced workshops guide customized AI solution development for individual use cases, preparing them for productive use and full automation.
 
-**Topics include:**
+## FAQ
 
-- **Adapting Open Source Models:** Adapt open source AI models to specific needs. Train and optimize for effective results with minimal resources.
-- **Automated MLOps Pipelines:** Develop automated pipelines for AI model management, covering data flows, training, validation, and deployment for scalable development.
-- **Transition to Production Environments:** Integrate trained AI models into production. Validate and manage models, enabling efficient inference and monitoring.
+**Q: What are the recommended ways for candidates to prepare for the AI Engineer Certification?**
+
+**A:** To prepare for the certification, candidates can:
+- Attend our workshops.
+- Enroll in our MOOCs.
+- Read our study guides, which include free (preferably) and paid online resources. This will be published on our website.
+- Follow our technical blog posts.
+- Attend bootcamps with whom we have partnered.
+
+**Q: How do the optional AI Expert certifications intersect in terms of content coverage?** 
+
+**A:** The optional AI Expert certifications have overlapping content. For example, both the Computer Vision and NLP certifications cover topics in image and text generation that intersect with the Generative AI Certification.
+
+**Q: Is it possible to receive partial credit towards AI Engineer Certification for certifications obtained from other providers?**
+
+**A:** Certifications from other providers that align with our study plan (e.g., Fraunhofer's Data Science Certification, Microsoft’s AI Engineer Certification, Google's Machine Learning Engineer Certification) may be eligible for partial credit towards relevant certificates.
+
+**Q: What are the rules regarding the sequence and number of attempts for the knowledge test and project submission in the AI Engineer Certification process?**
+
+**A:** Candidates must pass the knowledge test before submitting projects. Candidates that fail one of the evaluations will have to wait 1 month before resubmitting their projects or retaking the knowledge tests. A maximum of three attempts per evaluation is acceptable.
+

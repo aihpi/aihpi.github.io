@@ -1,10 +1,8 @@
 baseurl = "https://kisz-bb.github.io"
 DefaultContentLanguage = "en"
-title = "AI Service Center"
+title = "AI Expert Blog"
 # Using theme as git submodule 
 theme = "beautifulhugo"
-# Or when using theme as hugo module
-# theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -15,8 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "AI-HPI" # Set a different text for the header on the home page
-  subtitle = "AI Service Center for Berlin and Brandenburg @ Hasso Plattner Institute"
+  homeTitle = "AI Expert Blog" # Set a different text for the header on the home page
+  subtitle = "By the AI Service Center for Berlin and Brandenburg @ Hasso Plattner Institute"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
   favicon = "img/favicon_4.png"
@@ -99,20 +97,20 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 
-[[menu.main]]
-    name = "Computing Resources"
-    url = "page/computing_resources/"
-    weight = 5
+#[[menu.main]]
+#    name = "Computing Resources"
+#    url = "page/computing_resources/"
+#    weight = 5
 
 [[menu.main]]
     name = "Education"
     url = "page/education/"
     weight = 3  
 
-[[menu.main]]
-    name = "Consulting"
-    url = "page/consulting/"
-    weight = 4
+#[[menu.main]]
+#    name = "Consulting"
+#    url = "page/consulting/"
+#    weight = 4
  
 [[menu.main]]
     name = "Imprint and Privacy Notice"
