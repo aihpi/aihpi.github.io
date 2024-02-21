@@ -1,6 +1,6 @@
 ---
 title: AI Expert Certification
-subtitle: Accreditation for artificial intelligence experts
+subtitle: Accreditation for Artificial Intelligence Experts
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 
