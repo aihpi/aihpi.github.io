@@ -19,7 +19,6 @@ Additionally, they must achieve at least three of the following AI Expert Certif
 - **Multimodal ML Certification**
 - **Generative AI Certification**
 
-The optional AI Expert certifications have overlapping content. For example, both the Computer Vision and NLP certifications cover topics in image and text generation that intersect with the Generative AI Certification. This structure allows candidates to select a path aligning with their focus and adds value to their careers while maintaining rigor.
 
 ## Evaluation
 
@@ -64,4 +63,10 @@ Certificates will be valid for five years.
 **Q: What are the rules regarding the sequence and number of attempts for the knowledge test and project submission in the AI Engineer Certification process?**
 
 **A:** Candidates must pass the knowledge test before submitting projects. Candidates that fail one of the evaluations will have to wait 1 month before resubmitting their projects or retaking the knowledge tests. A maximum of three attempts per evaluation is acceptable.
+
+Certainly! Here's an appropriate FAQ question for the provided text:
+
+**Q: How do the optional AI Expert certifications overlap in content, and how does this impact the candidate's learning path and career value?**
+
+**A:** The optional AI Expert certifications have overlapping content. For example, both the Computer Vision and NLP certifications cover topics in image and text generation that intersect with the Generative AI Certification. This structure allows candidates to select a path aligning with their focus and adds value to their careers.
 
