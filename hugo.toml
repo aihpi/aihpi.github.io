@@ -103,7 +103,7 @@ pygmentsCodefencesGuessSyntax = true
 #    weight = 5
 
 [[menu.main]]
-    name = "Education"
+    name = "AI Expert Certification"
     url = "page/education/"
     weight = 3  
 
