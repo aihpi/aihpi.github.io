@@ -1,6 +1,6 @@
 baseurl = "https://kisz-bb.github.io"
 DefaultContentLanguage = "en"
-title = "AI Expert Blog"
+title = "AI Maker Blog"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "AI Expert Blog" # Set a different text for the header on the home page
+  homeTitle = "AI Maker Blog" # Set a different text for the header on the home page
   subtitle = "By the AI Service Center for Berlin and Brandenburg @ Hasso Plattner Institute"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
