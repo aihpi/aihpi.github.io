@@ -84,8 +84,6 @@
 
 * [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 
-* [Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
-
 * [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 
 * [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
