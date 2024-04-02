@@ -66,9 +66,7 @@
 
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
 
-* [Batch Normalization: Acceler
-
-ating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
 
 * [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
