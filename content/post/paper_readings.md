@@ -46,7 +46,7 @@
 
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434v6) `Deep Learning`
 
-* [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `Machine Learning Theory`
+* [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) `MLOps` `Machine Learning Theory`
 
 * [High Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) `Computer Vision`, `Deep Learning`
 
