@@ -1,0 +1,6 @@
+# project files
+.idea/
+
+# build files
+public/
+package-lock.json
