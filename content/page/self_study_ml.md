@@ -119,6 +119,9 @@ We highly recommend the following resources:
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 
+## Self-Study Content on Object Oriented Programming in Python
+* [Object Oriented Programming in Python](https://realpython.com/python3-object-oriented-programming/)
+
 ## Self-Study Content for Model Deployment through REST APIs 
 We encourage candidates to go through the [content of our workshop on deploying models with Docker and FastAPI](https://github.com/aihpi/kisz-mlops-docker) to prepare for this topic. 
 
