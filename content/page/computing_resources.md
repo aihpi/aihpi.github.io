@@ -5,7 +5,7 @@ subtitle: We provide computing resources to develop AI applications
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 
-# KISZ-BB Computing Resource Services
+# AI Services Computing Resources
 
 KISZ provides a heterogeneous AI infrastructure that meets the requirements and needs of research, startups, or small/medium-sized enterprises. In addition to a specialized training and inference cluster, it includes an ARM-based system and small and medium general-purpose servers. This infrastructure enables:
 

@@ -1,4 +1,4 @@
-baseurl = "https://kisz-bb.github.io"
+baseurl = "https://aihpi.github.io"
 DefaultContentLanguage = "en"
 title = "AI Maker Blog"
 # Using theme as git submodule 
@@ -49,7 +49,7 @@ pygmentsCodefencesGuessSyntax = true
   website = "https://hpi.de/kisz/home.html"
   email = "kisz@hpi.de"
   #facebook = "username"
-  github = "KISZ-BB"
+  github = "aihpi"
   #twitter = "username"
   #instagram = "username"
 
