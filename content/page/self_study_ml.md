@@ -100,6 +100,7 @@ To delve deeper on these topics, we recommend "An Introduction to Statistical Le
 Most of our workshops are taught in PyTorch and we recommend getting familiar with its syntax. 
 
 - [PyTorch Basics](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [Backpropagation](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=en)
 - [Multilayer Perceptrons](https://colab.research.google.com/drive/12Z4tdiBxOh3RlfYVUF5HwStPMclLS9LW?authuser=1)
 - [Convolutional Networks](https://blog.paperspace.com/writing-cnns-from-scratch-in-pytorch/)
 - [Transformers](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
