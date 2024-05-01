@@ -2,6 +2,8 @@
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) `Deep Learning`
 
+* [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/abs/1603.07285) `Deep Learning` `Computer Vision`
+
 * [Algorithms for Hyper-parameter Optimization](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) `Machine Learning Theory`
 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) `Computer Vision`, `Deep Learning`
