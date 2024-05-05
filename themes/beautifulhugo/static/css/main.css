@@ -12,8 +12,8 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
   }
 }
 .container[role=main] {
@@ -41,7 +41,7 @@ p a {
 }
 @media (prefers-color-scheme: dark) {
   p a {
-    color: #50afff;
+    color: black;
   }
 }
 
@@ -54,7 +54,7 @@ a {
 }
 @media (prefers-color-scheme: dark) {
   a {
-    color: #50afff;
+    color: black;
   }
 }
 a:hover,
@@ -77,7 +77,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: inherit;
+    color: black;
   border-radius: 3px;
 }
 
@@ -135,7 +135,7 @@ img {
 }
 @media (prefers-color-scheme: dark) {
 figure:not(.dark) img, img.white {
-  background-color: white;
+    color: black;
 }
 }
 
@@ -162,7 +162,7 @@ figure:not(.dark) img, img.white {
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #505050;
+    background: white;
     border-bottom: 1px solid #AAA;
   }
 }
@@ -176,13 +176,13 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+    color: black;
 }
 
 @media (prefers-color-scheme: dark) {
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
-    color: #b0b0b0;
+    color: black;
   }
 }
 
@@ -198,7 +198,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   @media (prefers-color-scheme: dark) {
-    color: #b0e0ff;
+    color: black;
   }
 }
 
@@ -337,13 +337,13 @@ figure:not(.dark) img, img.white {
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom .nav .navlinks-container:hover {
-    background: #666;
+    background: white;
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     border: 1px solid #AAA;
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
-    background: #444;
+    background: white;
   }
 }
 
@@ -351,14 +351,14 @@ figure:not(.dark) img, img.white {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+    background: white;
   border-top: 1px #EAEAEA solid;
   margin-top: auto;
   font-size: 14px;
 }
 
 footer a {
-  color: #404040;
+    color: black;
 
 }
 
@@ -404,11 +404,11 @@ footer div.disclaimer {
 
 @media (prefers-color-scheme: dark) {
   footer {
-    background: #444;
+    background: white;
     border-top: 1px #AAA solid;
   }
   footer a {
-    color: #AAA;
+    color: black;
   }
 }
 
@@ -434,7 +434,7 @@ footer div.disclaimer {
 }
 @media (prefers-color-scheme: dark) {
   .post-preview a {
-    color: #AAA;
+    color: black;
   }
 }
 
@@ -740,8 +740,8 @@ footer div.disclaimer {
 
 @media (prefers-color-scheme: dark) {
 .pager li a {
-  background: #444;
-  color: white;
+    background: white;
+    color: black;
 }
 }
 
@@ -777,11 +777,11 @@ table tr {
 @media (prefers-color-scheme: dark) {
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+    color: black;
 }
 @media (prefers-color-scheme: dark) {
 table tr {
-  background-color: #181818;
+    color: black;
 }
 table tr:nth-child(2n) {
   background-color: #303030
@@ -917,7 +917,7 @@ h4.see-also {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   code {
-    background-color: #222;
+    color: black;
     color: #fbb;
   }
   pre code {
