@@ -1,76 +1,58 @@
   {{ if eq .Type "page" }}
     {{ partial "page_meta.html" . }}
   {{ end }}
-<footer>
-  <div class="container">
-    {{ if .Site.Params.disclaimerText }}
-    <div class="row">
-      <div class="disclaimer">
-        <b>Disclaimer:</b> {{ .Site.Params.disclaimerText }}
+  <footer>
+    <div class="container">
+      {{ if .Site.Params.disclaimerText }}
+      <div class="row">
+        <div class="disclaimer">
+          <b>Disclaimer:</b> {{ .Site.Params.disclaimerText }}
+        </div>
       </div>
-    </div>
-    {{ end }}
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
-              <li>
-		{{ if or ( hasPrefix ( index $.Site.Author .id ) "http://" ) ( hasPrefix ( index $.Site.Author .id ) "https://" ) }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Author .id) }}" title="{{ .title }}">
-		{{ else }}
-		  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
-		{{ end }}
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {{- end -}}
-          {{ end }}
-          {{ if .Site.Params.rss }}
-          <li>
-            <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-        <p class="credits copyright text-muted">
-          {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
-            {{ else }}
-              {{ .Site.Author.name }}
+      {{ end }}
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <ul class="list-inline text-center footer-links">
+            {{ range .Site.Data.beautifulhugo.social.social_icons }}
+              {{- if isset $.Site.Author .id }}
+                <li>
+                  <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+                    <span class="fa-stack fa-lg">
+                      <i class="fas fa-circle fa-stack-2x"></i>
+                      <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+              {{- end -}}
             {{ end }}
-          {{ end }}
-
-          &nbsp;&bull;&nbsp;&copy;
-          {{ if .Site.Params.since }}
-            {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
-          {{ else }}
-            {{ .Site.LastChange.Format "2006" }}
-          {{ end }}
-
-          {{ if .Site.Title }}
-            &nbsp;&bull;&nbsp;
-            <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-          {{ end }}
-        </p>
-        <!-- Please don't remove this, keep my open source work credited :) -->
-        <p class="credits theme-by text-muted">
-          {{ i18n "poweredBy" . | safeHTML }}
-          {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}
-        </p>
-        <img style="width: 50%" src="img/sponsor.png">
+            {{ if .Site.Params.rss }}
+            <li>
+              <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+          <p class="credits copyright text-muted">
+            {{ if .Site.Author.name }}
+              {{ if .Site.Author.website }}
+                <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+              {{ else }}
+                {{ .Site.Author.name }}
+              {{ end }}
+            {{ end }}
+          </p>
+          <div class="sponsor">
+            <img src="{{ "static/img/sponsor.png" | relURL }}" alt="Sponsor">
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</footer>
+  </footer>
+  
 
 {{- if .Site.Params.selfHosted -}}
 <script defer src="{{ "js/katex.min.js" | absURL }}"></script>

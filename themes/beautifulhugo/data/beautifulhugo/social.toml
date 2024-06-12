@@ -36,7 +36,7 @@ icon = "fab fa-twitter"
 
 [[social_icons]]
 id = "slack"
-url = "https://%s.slack.com/"
+url = "https://%s/"
 title = "Slack"
 icon = "fab fa-slack"
 

@@ -1,6 +1,6 @@
 baseurl = "https://aihpi.github.io"
 DefaultContentLanguage = "en"
-title = "AI Maker Community Blog"
+title = "AI Maker Blog"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "AI Maker Community Blog" # Set a different text for the header on the home page
-  subtitle = "By AI Services @ Hasso Plattner Institute"
+  subtitle = "By AI Services @ Hasso Plattner Institut"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
   favicon = "img/favicon_4.png"
@@ -50,7 +50,6 @@ pygmentsCodefencesGuessSyntax = true
   email = "kisz@hpi.de"
   #facebook = "username"
   github = "aihpi"
-  slack="join.aimaker.community"
   #twitter = "username"
   #instagram = "username"
 
