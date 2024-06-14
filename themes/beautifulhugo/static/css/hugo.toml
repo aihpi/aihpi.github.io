@@ -1,6 +1,6 @@
 baseurl = "https://aihpi.github.io"
 DefaultContentLanguage = "en"
-title = "AI Maker Blog"
+title = "AI Maker Community"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "AI Maker Community Blog" # Set a different text for the header on the home page
+  homeTitle = "AI Maker Community" # Set a different text for the header on the home page
   subtitle = "By AI Services @ Hasso Plattner Institut"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
