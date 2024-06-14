@@ -68,35 +68,35 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [[menu.main]]
-    parent = "Workshops"
-    name = "Image Dataset Curation"
-    url = "post/image_dataset_curation"
-    weight = 1
+   parent = "Workshops"
+   name = "Weekly Paper Readings"
+   url = "post/paper_readings"
+   weight = 1
 
-[[menu.main]]
-    parent = "Workshops"
-    name = "Embeddings"
-    url = "post/embeddings"
-    weight = 2
-
-
-[[menu.main]]
-    parent = "Workshops"
-    name = "Docker and FastAPI"
-    url = "post/docker"
-    weight = 1
-
-[[menu.main]]
-    parent = "Workshops"
-    name = "Speech to Summary"
-    url = "post/speech_to_summary"
-    weight = 5
-
-[[menu.main]]
-    parent = "Workshops"
-    name = "Retrieval Augmented Generation"
-    url = "post/rag"
-    weight = 2
+#[[menu.main]]
+#    parent = "Workshops"
+#    name = "Embeddings"
+#    url = "post/embeddings"
+#    weight = 2
+#
+#
+#[[menu.main]]
+#    parent = "Workshops"
+#    name = "Docker and FastAPI"
+#    url = "post/docker"
+#    weight = 1
+#
+#[[menu.main]]
+#    parent = "Workshops"
+#    name = "Speech to Summary"
+#    url = "post/speech_to_summary"
+#    weight = 5
+#
+#[[menu.main]]
+#    parent = "Workshops"
+#    name = "Retrieval Augmented Generation"
+#    url = "post/rag"
+#    weight = 2
 
 
 #[[menu.main]]
