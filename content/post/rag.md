@@ -3,6 +3,7 @@ title: Building a Retrieval Augmented Generation System - February 07, 2024
 date: 2024-01-03
 image: "/img/local_rag_dodecahedron_english.jpg"
 weight: 1
+draft: true
 ---
 
 ![](/img/local_rag_dodecahedron_english.jpg)

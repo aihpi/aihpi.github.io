@@ -1,3 +1,12 @@
+---
+title: Weekly Paper Readings
+showthedate: false
+image: "/img/logo_4.png"
+date: 2024-06-01
+
+weight: 4
+---
+
 # AI Maker Community - Weekly Paper Readings
 
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) `Deep Learning`

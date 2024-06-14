@@ -1,9 +1,10 @@
 ---
 title: Docker and FastAPI Workshop - February 6, 2024
 date: 2024-01-03
-showthedate: true
+showthedate: false
 image: "/img/docker_orange_noice_english.jpg"
 weight: 4
+draft: true
 ---
 
 ![](/img/docker_orange_noice_english.jpg)

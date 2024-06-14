@@ -3,6 +3,7 @@ title: Image Dataset Curation and Art Recommendation Workshop - March 04, 2024
 date: 2024-01-03
 image: "/img/image_dataset_curation_english.jpg"
 weight: 1
+draft: true
 ---
 
 ![](/img/image_dataset_curation_english.jpg)
