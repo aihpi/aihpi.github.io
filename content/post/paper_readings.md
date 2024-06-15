@@ -5,9 +5,8 @@ image: "/img/logo_4.png"
 date: 2024-06-01
 weight: 4
 ---
-
-We do deep-dives on foundational and impactful research papers in AI. 
-
+We do deep-dives on foundational and impactful research papers in the field of artificial intelligence. 
+$$~~$$
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) `Deep Learning`
 
 * [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/abs/1603.07285) `Deep Learning` `Computer Vision`
