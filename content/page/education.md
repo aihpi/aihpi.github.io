@@ -58,7 +58,7 @@ Certificates will be valid for five years.
 
 **Q: Is it possible to receive partial credit towards AI Engineer Certification for certifications obtained from other providers?**
 
-**A:** Certifications from other providers that align with our study plan (e.g., Fraunhofer's Data Science Certification, Microsoft’s AI Engineer Certification, Google's Machine Learning Engineer Certification) may be eligible for partial credit towards relevant certificates.
+**A:** Certifications from other providers that align with our study plan (e.g., Fraunhofer's Data Science Certification, Microsoft’s AI Engineer Certification, Google's Machine Learning Engineer Certification) may be eligible for partial credit towards relevant certificates. Please contact us at kisz@hpi.de for further discussion. 
 
 **Q: What are the rules regarding the sequence and number of attempts for the knowledge test and project submission in the AI Engineer Certification process?**
 
