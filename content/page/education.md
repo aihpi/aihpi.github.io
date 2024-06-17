@@ -48,7 +48,7 @@ Certificates will be valid for five years.
 **A:** To prepare for the certification, candidates can:
 - Attend our workshops.
 - Enroll in our MOOCs.
-- Read our study guides, which include free (preferably) and paid online resources. This will be published on our website.
+- Read our study guides, which include free and paid online resources. This will be published on our website.
 - Follow our technical blog posts.
 - Attend bootcamps with whom we have partnered.
 
