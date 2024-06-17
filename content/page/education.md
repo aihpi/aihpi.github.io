@@ -2,13 +2,14 @@
 title: AI Expert Certification
 subtitle: Accreditation for Artificial Intelligence Experts
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
+draft: true 
 ---
 
 # AI Engineer Certification
 
 To acquire an AI Engineer Certification, candidates must first obtain the following AI Expert Certifications, offered by AI Services @ HPI:
 
-- **Training and Evaluating Machine Learning Models Certification (ML Expert)**
+- **Training, Evaluating, and Deploying Machine Learning Models Certification (ML Expert)**
 - **MLOps Certification**
 - **Responsible AI Certification**
 
@@ -28,6 +29,10 @@ To acquire the certificates, candidates must pass both:
 - **Interview based on a portfolio project** (public Github repository) related to the content of the certification
 
 A list of suggested portfolio projects will be published on the AI Maker Community Blog.
+
+## Registration
+
+Contact us at kisz@hpi.de for further information on registration details and upcoming evaluation dates. 
 
 
 ## Cost
