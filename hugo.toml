@@ -67,11 +67,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 
-[[menu.main]]
-   parent = "Workshops"
-   name = "Weekly Paper Readings"
-   url = "post/paper_readings"
-   weight = 1
+#[[menu.main]]
+#   parent = "Workshops"
+#   name = "Weekly Paper Readings"
+#   url = "post/paper_readings"
+#   weight = 1
 
 [[menu.main]]
     parent = "Workshops"

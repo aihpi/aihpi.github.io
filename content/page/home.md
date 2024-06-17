@@ -1,6 +1,6 @@
 ---
 title: Home
-subtitle: Welcome to the AI Maker Blog by the AI Service Center at the Hasso Plattner Institute
+subtitle: Welcome to the AI Maker Community Blog by AI Services @ Hasso Plattner Institut
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 
