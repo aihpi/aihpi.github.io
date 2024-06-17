@@ -1,7 +1,7 @@
 ---
 title: Deep Learning with PyTorch
 showthedate: false
-image: "img/deep_learning_pytorch.png"
+image: "/img/deep_learning_pytorch.png"
 date: 2024-06-15
 weight: 1
 draft: true

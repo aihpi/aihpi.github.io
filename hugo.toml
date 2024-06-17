@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   readingTime = false
   wordCount = false
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
@@ -73,11 +73,11 @@ pygmentsCodefencesGuessSyntax = true
    url = "post/paper_readings"
    weight = 1
 
-#[[menu.main]]
-#    parent = "Workshops"
-#    name = "Embeddings"
-#    url = "post/embeddings"
-#    weight = 2
+[[menu.main]]
+    parent = "Workshops"
+    name = "Computer Vision with PyTorch"
+    url = "post/practical_computer_vision_with_pytorch"
+    weight = 2
 #
 #
 #[[menu.main]]
@@ -89,8 +89,8 @@ pygmentsCodefencesGuessSyntax = true
 #[[menu.main]]
 #    parent = "Workshops"
 #    name = "Speech to Summary"
-#    url = "post/speech_to_summary"
-#    weight = 5
+#    url = "post/whisper_paper_reading"
+#    weight = 2
 #
 #[[menu.main]]
 #    parent = "Workshops"
