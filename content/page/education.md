@@ -27,7 +27,7 @@ To acquire the certificates, candidates must pass both:
 - **Knowledge test** administered live at HPI
 - **Interview based on a portfolio project** (public Github repository) related to the content of the certification
 
-A list of suggested portfolio projects for each certification will be published on the AI Maker Community Blog.
+A list of suggested portfolio projects will be published on the AI Maker Community Blog.
 
 
 ## Cost
