@@ -6,7 +6,7 @@ bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""
 
 # AI Engineer Certification
 
-To acquire an AI Engineer Certification, candidates must first obtain the following AI Expert Certifications, offered by AI Service Center at HPI:
+To acquire an AI Engineer Certification, candidates must first obtain the following AI Expert Certifications, offered by AI Services @ HPI:
 
 - **Training and Evaluating Machine Learning Models Certification (ML Expert)**
 - **MLOps Certification**
