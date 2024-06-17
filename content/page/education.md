@@ -12,7 +12,7 @@ To acquire an AI Engineer Certification, candidates must first obtain the follow
 - **MLOps Certification**
 - **Responsible AI Certification**
 
-Additionally, they must achieve at least three of the following AI Expert Certifications:
+Additionally, candidates must achieve at least three of the following AI Expert Certifications:
 
 - **Computer Vision Certification**
 - **Natural Language Processing Certification**
@@ -24,7 +24,7 @@ Additionally, they must achieve at least three of the following AI Expert Certif
 
 To acquire the certificates, candidates must pass both:
 
-- **Knowledge test** (either live at HPI or online and proctored through Proctorio)
+- **Knowledge test** administered live at HPI
 - **Interview based on a portfolio project** (public Github repository) related to the content of the certification
 
 A list of suggested portfolio projects for each certification will be published on the AI Maker Community Blog.
