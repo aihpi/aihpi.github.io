@@ -9,7 +9,7 @@ draft: true
 
 We at AI Services @ HPI are excited to announce our upcoming workshop, "Deep Learning with PyTorch". This event is designed for AI enthusiasts and developers, including data scientists, machine learning engineers, computer science students, and software engineers. 
 
-Details:
+## Details
 - We recommend participants to join the AI Maker Community Slack channel before the workshop for discussions and updates.
 - Participants will need to have a Google account and be familiar with Python, as this will be a practical exploration using Kaggle Notebooks.
 - The event will be hybrid, taking place both online and at our location at Marchstrasse 23, 10587, Berlin.
@@ -17,4 +17,3 @@ Details:
 
 We encourage you to join our Slack channel to discuss with other participants during the session. You can join us at https://join.aimaker.community/.
 
-We look forward to seeing you there and exploring the exciting world of Deep Learning with PyTorch together.
