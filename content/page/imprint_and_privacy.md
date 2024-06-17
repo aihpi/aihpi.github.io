@@ -6,7 +6,7 @@ bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""
 
 # Imprint 
 
-Hasso Plattner Institute for Digital Engineering gGmbH
+Hasso Plattner Institut for Digital Engineering gGmbH
 Prof.-Dr.-Helmert-Str. 2-3
 14482 Potsdam
 Phone: +49 (0)331 5509-0
@@ -84,7 +84,7 @@ Generally, your personal data remains within our area of responsibility, except 
 
 The responsible party for the processing of personal data on this website is:
 
-Hasso Plattner Institute for Digital Engineering gGmbH,
+Hasso Plattner Institut for Digital Engineering gGmbH,
 Campus Griebnitzsee
 Prof.-Dr.-Helmert-Str. 2-3,
 Phone: +49 (0)331 5509-0,
@@ -92,7 +92,7 @@ Telefax: +49 (0)331 5509-129,
 Email: hpi-info(at)hpi.de.
 
 You may contact our data protection officer at:
-Data Protection Officer, Hasso Plattner Institute for Digital Engineering gGmbH,
+Data Protection Officer, Hasso Plattner Institut for Digital Engineering gGmbH,
 Prof.-Dr.-Helmert-Str. 2-3,
 14482 Potsdam,
 Germany,

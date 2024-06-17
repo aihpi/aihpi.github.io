@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "AI Maker Community" # Set a different text for the header on the home page
-  subtitle = "By AI Services @ Hasso Plattner Institute"
+  subtitle = "By AI Services @ Hasso Plattner Institut"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
   favicon = "img/favicon_4.png"
