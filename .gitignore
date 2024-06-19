@@ -4,3 +4,5 @@
 # build files
 public/
 package-lock.json
+
+*.exe
