@@ -69,8 +69,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
    parent = "Workshops"
-   name = "Whisper Paper Reading"
-   url = "post/whisper_paper_reading"
+   name = "SigLip Paper Reading"
+   url = "post/siglip_paper_reading"
    weight = 2
 
 [[menu.main]]
@@ -78,6 +78,12 @@ pygmentsCodefencesGuessSyntax = true
     name = "Computer Vision with PyTorch"
     url = "post/practical_computer_vision_with_pytorch"
     weight = 2
+
+[[menu.main]]
+    parent = "Workshops"
+    name = "NVIDIA Deep Learning Certification"
+    url = "post/nvidia_deep_learning_fundamentals"
+    weight = 1
 #
 #
 #[[menu.main]]
