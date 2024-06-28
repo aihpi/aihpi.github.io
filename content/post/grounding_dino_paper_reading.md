@@ -1,13 +1,14 @@
 ---
-title: SigLip- Practical Paper Reading on July 3rd, 15:00 CEST
-image: "/img/siglip_paper_reading.png"
+title: Grounding DINO, Practical Paper Reading on July 3rd, 15:00 CEST
+image: "/img/grounding_dino.png"
 date: 2024-06-15
 draft: false
 weight: 3
 expiryDate: 2024-07-04
 ---
 
-Join us for an practical exploration of [SigLIP: "Sigmoid Loss for Languege Image Pre-training"](https://arxiv.org/abs/2303.15343), a state-of-the-art method for vision-language modeling from Google DeepMind.
+Join us for an practical exploration of [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
+](https://arxiv.org/pdf/2303.05499), a state-of-the-art method for vision-language modeling and object detection by Lie et al (2023).
 
 
 ## Details

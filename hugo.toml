@@ -70,7 +70,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
    parent = "Workshops"
    name = "SigLip Paper Reading"
-   url = "post/siglip_paper_reading"
+   url = "post/grounding_dino_paper_reading"
    weight = 2
 
 [[menu.main]]
