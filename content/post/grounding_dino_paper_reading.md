@@ -10,6 +10,8 @@ expiryDate: 2024-07-04
 Join us for an practical exploration of [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
 ](https://arxiv.org/pdf/2303.05499), a state-of-the-art method for vision-language modeling and object detection by Lie et al (2023).
 
+![](/img_grounding_dino_fig.png)
+
 
 ## Details
 - We recommend joining the AI Maker Community Slack workspace before the workshop to engage in discussions with other participants. You can join us at [https://join.aimaker.community/](https://join.aimaker.community/).
