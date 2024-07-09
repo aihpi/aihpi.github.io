@@ -5,7 +5,7 @@ image: "/img/Deep_Learning_Nvidia.jpg"
 date: 2024-06-15
 draft: false
 weight: 1
-expiryDate: 2024-07-11
+expiryDate: 2024-07-09
 ---
 
 ## About this event
