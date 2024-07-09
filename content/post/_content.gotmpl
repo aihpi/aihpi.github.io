@@ -20,12 +20,12 @@
   {{ $image := $template.image.data.attributes }}
 
   {{/* Use {timeDescription} | {presenceMode} @ {venueName} for subtitle. */}}
-  {{ $venueName := .attributes.venue.data.attributes.name }}
   {{ $presenceMode := .attributes.presenceMode }}
   {{ $timeDescription := .attributes.timeDescription }}
 
   {{ $subtitle := "" }}
-  {{ if or (eq $presenceMode "offline") (eq $presenceMode "hybrid") }}
+  {{ if and .attributes.venue (or (eq $presenceMode "offline") (eq $presenceMode "hybrid")) }}
+    {{ $venueName := .attributes.venue.data.attributes.name }}
     {{ $subtitle = printf "%s | %s @ %s" $timeDescription $presenceMode $venueName }}
   {{ else }}
     {{ $subtitle = printf "%s | %s" $timeDescription $presenceMode }}

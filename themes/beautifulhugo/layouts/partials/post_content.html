@@ -3,7 +3,6 @@
 
 {{/* Define variables for each attribute */}}
 {{ $shortDescription := $template.shortDescription }}
-{{ $venueDescription := .attributes.venue.data.attributes.description }}
 {{ $presenceMode := .attributes.presenceMode }}
 
 {{/* Create bullet points for requirements */}}
@@ -33,8 +32,9 @@
 
 
 {{ $eventDetailsSection := printf "## Event Details\n%s" $eventDetails }}
-{{ if ne $presenceMode "online" }}
-{{ $eventDetailsSection = printf "## Event Details\n%s\n\n### Venue\n%s" $eventDetails $venueDescription }}
+{{ if and .attributes.venue (ne $presenceMode "online") }}
+    {{ $venueDescription := .attributes.venue.data.attributes.description }}
+    {{ $eventDetailsSection = printf "## Event Details\n%s\n\n### Venue\n%s" $eventDetails $venueDescription }}
 {{ end }}
 
 
