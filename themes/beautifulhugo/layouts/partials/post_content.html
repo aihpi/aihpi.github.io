@@ -1,0 +1,45 @@
+{{ $template := .attributes.template.data.attributes }}
+{{ $image := $template.image.data.attributes }}
+
+{{/* Define variables for each attribute */}}
+{{ $shortDescription := $template.shortDescription }}
+{{ $venueDescription := .attributes.venue.data.attributes.description }}
+{{ $presenceMode := .attributes.presenceMode }}
+
+{{/* Create bullet points for requirements */}}
+{{ $requirements := slice }}
+{{ range $template.requirements.data }}
+{{ $requirement := printf "* %s" .attributes.description }}
+{{ $requirements = $requirements | append $requirement }}
+{{ end }}
+
+{{/* Join bullet points with newline */}}
+{{ $requirementsText := delimit $requirements "\n" }}
+
+{{/* Construct sections */}}
+{{ $imageSection := printf "![](%s)" $image.name }}
+{{ $summarySection := printf "## Summary\n%s" $shortDescription }}
+{{ $requirementsSection := printf "## Requirements\n%s" $requirementsText }}
+
+{{/* Construct the event details section based on presence mode */}}
+{{ $eventDetails := "" }}
+{{ if eq $presenceMode "online" }}
+{{ $eventDetails = "This is an online event. We will post a link to the session in Slack shortly before the session starts." }}
+{{ else if eq $presenceMode "hybrid" }}
+{{ $eventDetails = "This is a hybrid event. We will post a link to the session in Slack shortly before the session starts." }}
+{{ else if eq $presenceMode "offline" }}
+{{ $eventDetails = "This is an offline event." }}
+{{ end }}
+
+
+{{ $eventDetailsSection := printf "## Event Details\n%s" $eventDetails }}
+{{ if ne $presenceMode "online" }}
+{{ $eventDetailsSection = printf "## Event Details\n%s\n\n### Venue\n%s" $eventDetails $venueDescription }}
+{{ end }}
+
+
+{{/* Combine all sections */}}
+{{ $contentValue := printf "%s\n%s\n\n%s\n\n%s" $imageSection $summarySection $requirementsSection $eventDetailsSection }}
+
+{{/* Return the constructed content */}}
+{{ $contentValue }}

@@ -66,45 +66,6 @@ pygmentsCodefencesGuessSyntax = true
     url = ""
     weight = 2
 
-
-[[menu.main]]
-   parent = "Workshops"
-   name = "SigLip Paper Reading"
-   url = "post/grounding_dino_paper_reading"
-   weight = 2
-
-[[menu.main]]
-    parent = "Workshops"
-    name = "Computer Vision with PyTorch"
-    url = "post/practical_computer_vision_with_pytorch"
-    weight = 2
-
-[[menu.main]]
-    parent = "Workshops"
-    name = "NVIDIA Deep Learning Certification"
-    url = "post/nvidia_deep_learning_fundamentals"
-    weight = 1
-#
-#
-#[[menu.main]]
-#    parent = "Workshops"
-#    name = "Docker and FastAPI"
-#    url = "post/docker"
-#    weight = 1
-#
-#[[menu.main]]
-#    parent = "Workshops"
-#    name = "Speech to Summary"
-#    url = "post/whisper_paper_reading"
-#    weight = 2
-#
-#[[menu.main]]
-#    parent = "Workshops"
-#    name = "Retrieval Augmented Generation"
-#    url = "post/rag"
-#    weight = 2
-
-
 #[[menu.main]]
 #    name = "Computing Resources"
 #    url = "page/computing_resources/"

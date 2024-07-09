@@ -1,0 +1,88 @@
+{{/* Get remote data. */}}
+{{/*$baseUrl := "https://strapi.aihpi.de"*/}}
+{{ $baseUrl := "http://localhost:1338" }}
+{{ $response := dict }}
+{{ $url := add $baseUrl "/api/events?populate[template][populate]=tags,requirements,image&populate=venue" }}
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "Unable to get remote resource %s: %s" $url . }}
+  {{ else }}
+    {{ $response = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %s" $url }}
+{{ end }}
+
+{{/* Add pages and page resources. */}}
+{{ range $response.data }}
+  {{/* Define helper variables. */}}
+  {{ $template := .attributes.template.data.attributes }}
+  {{ $image := $template.image.data.attributes }}
+
+  {{/* Use {timeDescription} | {presenceMode} @ {venueName} for subtitle. */}}
+  {{ $venueName := .attributes.venue.data.attributes.name }}
+  {{ $presenceMode := .attributes.presenceMode }}
+  {{ $timeDescription := .attributes.timeDescription }}
+
+  {{ $subtitle := "" }}
+  {{ if or (eq $presenceMode "offline") (eq $presenceMode "hybrid") }}
+    {{ $subtitle = printf "%s | %s @ %s" $timeDescription $presenceMode $venueName }}
+  {{ else }}
+    {{ $subtitle = printf "%s | %s" $timeDescription $presenceMode }}
+  {{ end }}
+
+  {{/* Use /{title}-{id} path for post. */}}
+  {{ $path := (printf "%s-%.0f" $template.title .id) }}
+
+  {{/* Extract tags. */}}
+  {{- $tags := slice -}}
+  {{- range $template.tags.data -}}
+    {{- $tags = $tags | append .attributes.tag -}}
+  {{- end -}}
+
+  {{/* Set tags and image. */}}
+  {{ $params := dict "tags" $tags "image" $image.name "subtitle" $subtitle }}
+
+  {{/* Create content. */}}
+  {{ $contentValue := partial "post_content" . }}
+  {{ $content := dict "mediaType" "text/markdown" "value" $contentValue }}
+
+  {{/* Set "Posted on" date. */}}
+  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) }}
+
+  {{/* Add page. */}}
+  {{ $page := dict
+    "content" $content
+    "dates" $dates
+    "kind" "page"
+    "params" $params
+    "path" $path
+    "title" $template.title
+  }}
+
+  {{ $.AddPage $page }}
+
+  {{/* Add page resource. */}}
+  {{ with $imageUrl := (add $baseUrl $image.url) }}
+    {{ with resources.GetRemote $imageUrl }}
+      {{ with .Err }}
+        {{ errorf "Unable to get remote resource %s: %s" $imageUrl . }}
+      {{ else }}
+        {{ $imageContent := dict "mediaType" .MediaType.Type "value" .Content }}
+        {{ $imageParams := dict "alt" $template.title }}
+        {{ $imagePath := printf "%s/%s" $path  $image.name }}
+
+        {{ $resource := dict
+          "content" $imageContent
+          "params" $imageParams
+          "path" $imagePath
+        }}
+
+        {{ $.AddResource $resource }}
+      {{ end }}
+    {{ else }}
+      {{ errorf "Unable to get remote resource %s" $imageUrl }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}

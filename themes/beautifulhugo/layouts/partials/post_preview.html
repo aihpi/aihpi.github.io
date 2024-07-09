@@ -7,7 +7,9 @@
         </h3>
         {{ end }}
         {{ if .Params.image }}
-        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" />
+        {{ with .Resources.Get .Params.image }}
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="img-title" />
+        {{ end }}
         {{ end }}
         {{ if .Params.video }}
         <video loop autoplay muted playsinline class="img-title">

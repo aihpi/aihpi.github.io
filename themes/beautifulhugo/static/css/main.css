@@ -452,6 +452,7 @@ footer div.disclaimer {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
+  text-transform: capitalize;
 }
 .post-preview .post-meta,
 .post-heading .post-meta,
@@ -621,6 +622,7 @@ footer div.disclaimer {
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
+  text-transform: capitalize;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
