@@ -56,6 +56,10 @@
   {{/* Set "Posted on" date. */}}
   {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) }}
 
+  {{/* Get sorting weight based on start date */}}
+  {{ $startAt := time.AsTime .attributes.startAt }}
+  {{ $weight := mul -1 $startAt.Unix }}
+
   {{/* Add page. */}}
   {{ $page := dict
     "content" $content
@@ -64,6 +68,7 @@
     "params" $params
     "path" $path
     "title" $title
+    "weight" $weight
   }}
 
   {{ $.AddPage $page }}
