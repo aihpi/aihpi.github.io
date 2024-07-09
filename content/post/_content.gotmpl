@@ -19,6 +19,12 @@
   {{ $template := .attributes.template.data.attributes }}
   {{ $image := $template.image.data.attributes }}
 
+  {{/* Use {$template.title} or {.titleOverride} */}}
+  {{ $title := $template.title }}
+  {{ if .attributes.titleOverride }}
+    {{ $title = .attributes.titleOverride }}
+  {{ end }}
+
   {{/* Use {timeDescription} | {presenceMode} @ {venueName} for subtitle. */}}
   {{ $presenceMode := .attributes.presenceMode }}
   {{ $timeDescription := .attributes.timeDescription }}
@@ -31,7 +37,7 @@
     {{ $subtitle = printf "%s | %s" $timeDescription $presenceMode }}
   {{ end }}
 
-  {{/* Use /{title}-{id} path for post. */}}
+  {{/* Use /{$template.title}-{id} path for post. */}}
   {{ $path := (printf "%s-%.0f" $template.title .id) }}
 
   {{/* Extract tags. */}}
@@ -57,7 +63,7 @@
     "kind" "page"
     "params" $params
     "path" $path
-    "title" $template.title
+    "title" $title
   }}
 
   {{ $.AddPage $page }}
