@@ -53,12 +53,15 @@
   {{ $contentValue := partial "post_content" . }}
   {{ $content := dict "mediaType" "text/markdown" "value" $contentValue }}
 
-  {{/* Set "Posted on" date. */}}
-  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) }}
-
   {{/* Get sorting weight based on start date */}}
   {{ $startAt := time.AsTime .attributes.startAt }}
   {{ $weight := mul -1 $startAt.Unix }}
+
+  {{/* Set expiryDate one day later */}}
+  {{ $expiryDate := $startAt.AddDate 0 0 1 }}
+
+  {{/* Set "Posted on" and expiry date. */}}
+  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) "expiryDate" $expiryDate }}
 
   {{/* Add page. */}}
   {{ $page := dict
