@@ -39,11 +39,6 @@ p a {
   /* text-decoration: underline */
   color: #008AFF;
 }
-@media (prefers-color-scheme: dark) {
-  p a {
-    color: black;
-  }
-}
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -51,11 +46,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
   color: #008AFF;
-}
-@media (prefers-color-scheme: dark) {
-  a {
-    color: black;
-  }
 }
 a:hover,
 a:focus {
