@@ -1,4 +1,4 @@
-# Resources for Self-Study - AI Expert Certification on Training and Evaluating ML Models
+# Resources for Self-Study - AI Expert Certification on Training, Evaluating, and Deploying ML Models
 
 ## Overview
 
