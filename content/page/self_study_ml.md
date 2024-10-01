@@ -129,4 +129,7 @@ We encourage candidates to go through the [content of our workshop on deploying 
 * [Building FastAPI endpoints for serving ML models - Tutorial by Sebastian Ramirez and Abhishek Thakur](https://www.youtube.com/watch?v=1zMQBe0l1bM)
 * [Building a FastAPI endpoint for language detection](https://www.youtube.com/watch?v=h5wLuVDr0oc)
 * [Our Handout for the Docker workshop](https://github.com/aihpi/kisz-mlops-docker/blob/main/supplemental_material/Docker%20Handout.pdf)
+
+## Self-Study Content on Docker
+* [Docker for Data Science](https://github.com/docker-for-data-science/docker-for-data-science-tutorial)
  
