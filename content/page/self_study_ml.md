@@ -132,4 +132,7 @@ We encourage candidates to go through the [content of our workshop on deploying 
 
 ## Self-Study Content on Docker
 * [Docker for Data Science](https://github.com/docker-for-data-science/docker-for-data-science-tutorial)
+
+## Self-Study Content on CRISP-DM
+* [What is CRISP-DM?](https://www.datascience-pm.com/crisp-dm-2/) 
  
