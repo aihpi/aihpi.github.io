@@ -134,5 +134,10 @@ We encourage candidates to go through the [content of our workshop on deploying 
 * [Docker for Data Science](https://github.com/docker-for-data-science/docker-for-data-science-tutorial)
 
 ## Self-Study Content on CRISP-DM
-* [What is CRISP-DM?](https://www.datascience-pm.com/crisp-dm-2/) 
+* [What is CRISP-DM?](https://www.datascience-pm.com/crisp-dm-2/)
+
+## Self-Study Content on the No-Free-Lunch Theorems
+* http://www.no-free-lunch.org/
+* [Lack of A-Priori Distinction on Learning Algorithms by David Wolpert](https://www.researchgate.net/publication/2755783_The_Lack_of_A_Priori_Distinctions_Between_Learning_Algorithms)
+* [An Overview of the No-Free-Lunch Theorems for Machine Learning](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/)
  
