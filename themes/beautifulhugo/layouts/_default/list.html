@@ -8,10 +8,11 @@
           </div>
         {{ end }}
         <div class="posts-list">
-          {{ range .Paginator.Pages }}
-            {{ partial "post_preview.html" .}}
+          {{ range (.Paginator.Pages.ByDate.Reverse) }}
+            {{ partial "post_preview.html" . }}
           {{ end }}
         </div>
+
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
           <ul class="pager main-pager">
             {{ if .Paginator.HasPrev }}
