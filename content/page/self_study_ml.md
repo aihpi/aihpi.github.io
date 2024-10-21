@@ -1,19 +1,6 @@
-# Resources for Self-Study - AI Expert Certification on Training, Evaluating, and Deploying ML Models
+# Resources for Self-Study 
 
-## Overview
-
-The ***AI Expert Certification on Training and Evaluating ML Models*** validates knowledge on fundamental machine learning concepts, including the training of deep neural networks. 
-
-Candidates must first pass a knowledge test before being eligible to submit a portfolio project developed in Python. See the details and FAQ on the [certification page]().
-
-Sample questions from the knowledge test [are available here](). 
-
-The rubric used to evaluate portfolio projects is [available here](). Projects are to be submitted using Python as the main programming language. 
-
-Note that candidates must present their portfolio projects in a live interview where both their presentation skills and their code are evaluated. 
-
-We have compiled the following resources to provide guidance on the theoretical and practical topics evaluated in the certification. 
-
+The content on this guide touches concepts that we go through on our AI Maker Sessions. 
 
 ## Practical Courses on Kaggle Learn
 
@@ -137,7 +124,7 @@ We encourage candidates to go through the [content of our workshop on deploying 
 * [What is CRISP-DM?](https://www.datascience-pm.com/crisp-dm-2/)
 
 ## Self-Study Content on the No-Free-Lunch Theorems
-* http://www.no-free-lunch.org/
+* [No-free-lunch.org](http://www.no-free-lunch.org/)
 * [Lack of A-Priori Distinction on Learning Algorithms by David Wolpert](https://www.researchgate.net/publication/2755783_The_Lack_of_A_Priori_Distinctions_Between_Learning_Algorithms)
 * [An Overview of the No-Free-Lunch Theorems for Machine Learning](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/)
  
