@@ -4,7 +4,6 @@ image: "/img/whisper_paper_reading.png"
 date: 2024-06-15
 draft: false
 weight: 2
-expiryDate: 2024-06-20
 ---
 
 Would you like to learn how to transcribe audio using a neural network? Join us for an practical exploration of [OpenAI's Whisper](https://openai.com/index/whisper/), a state-of-the-art method for automated speech recognition. 

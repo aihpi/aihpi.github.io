@@ -61,7 +61,7 @@
   {{ $expiryDate := $startAt.AddDate 0 0 1 }}
 
   {{/* Set "Posted on" and expiry date. */}}
-  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) "expiryDate" $expiryDate }}
+  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) /*"expiryDate" $expiryDate */}}
 
   {{/* Add page. */}}
   {{ $page := dict

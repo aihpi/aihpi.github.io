@@ -4,7 +4,6 @@ image: '/img/practical_cv_2.png' #"/img/practical_cv_pytorch.jpg"
 date: 2024-06-15
 draft: false
 weight: 1
-expiryDate: 2024-07-04
 ---
 
 Would you like to learn how to build computer vision projects?
