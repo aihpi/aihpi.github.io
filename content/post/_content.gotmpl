@@ -57,11 +57,8 @@
   {{ $startAt := time.AsTime .attributes.startAt }}
   {{ $weight := mul -1 $startAt.Unix }}
 
-  {{/* Set expiryDate one day later */}}
-  {{ $expiryDate := $startAt.AddDate 0 0 1 }}
-
-  {{/* Set "Posted on" and expiry date. */}}
-  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) /*"expiryDate" $expiryDate */}}
+  {{/* Set "Posted on" date. */}}
+  {{ $dates := dict "date" (time.AsTime .attributes.publishedAt) }}
 
   {{/* Add page. */}}
   {{ $page := dict
