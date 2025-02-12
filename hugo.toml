@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "AI Maker Community" # Set a different text for the header on the home page
-  subtitle = "By AI Services @ Hasso Plattner Institut"
+  subtitle = "By AI Service Centre @ Hasso Plattner Institut"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
   favicon = "img/favicon_4.png"
@@ -27,6 +27,7 @@ pygmentsCodefencesGuessSyntax = true
   useHLJS = true
   socialShare = false
   delayDisqus = true
+  disqusShortname = "AI Service Centre"
   showRelatedPosts = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"

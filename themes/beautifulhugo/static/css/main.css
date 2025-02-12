@@ -36,8 +36,8 @@ p + p {
     margin: 24px 0 6px 0;
 }
 p a {
-  /* text-decoration: underline */
-  color: #008AFF;
+  font-weight: bold;
+  color: #DD610A;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -45,11 +45,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #DD610A;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #DD610A;
 }
 blockquote {
   color: #808080;
@@ -110,7 +110,7 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #DD610A;
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -180,7 +180,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #DD610A;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -431,7 +431,7 @@ footer div.disclaimer {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #DD610A;
 }
 
 .post-preview .post-title {
@@ -512,7 +512,7 @@ footer div.disclaimer {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #DD610A;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -523,7 +523,7 @@ footer div.disclaimer {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #DD610A;
   background-color: #CCC;
 }
 
