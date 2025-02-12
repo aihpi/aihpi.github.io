@@ -7,7 +7,7 @@ weight: 1
 draft: true
 ---
 
-We at AI Services @ HPI are excited to announce our upcoming workshop, "Deep Learning with PyTorch". This event is designed for AI enthusiasts and developers, including data scientists, machine learning engineers, computer science students, and software engineers. 
+We are excited to announce our upcoming workshop, "Deep Learning with PyTorch". This event is designed for AI enthusiasts and developers, including data scientists, machine learning engineers, computer science students, and software engineers. 
 
 ## Details
 - We recommend participants to join the AI Maker Community Slack channel before the workshop for discussions and updates.

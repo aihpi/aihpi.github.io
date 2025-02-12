@@ -2,7 +2,7 @@
 {{ $baseUrl := "https://strapi.aihpi.de" }}
 {{/*$baseUrl := "http://localhost:1338"*/}}
 {{ $response := dict }}
-{{ $url := add $baseUrl "/api/events?populate[template][populate]=tags,requirements,image&populate=venue" }}
+{{ $url := add $baseUrl "/api/events?pagination[pageSize]=1000&populate[template][populate]=tags,requirements,image&populate=venue" }}
 {{ with resources.GetRemote $url }}
   {{ with .Err }}
     {{ errorf "Unable to get remote resource %s: %s" $url . }}
