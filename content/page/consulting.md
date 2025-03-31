@@ -1,7 +1,7 @@
 ---
 title: Consulting
 subtitle: We assist in the development of AI solutions
-bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
+bigimg: [{src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}]
 ---
 ## Service Description
 Our consulting services draw from research in AI hardware optimization, energy-efficient algorithms, edge learning emulation, and AI model explainability.

@@ -1,32 +1,28 @@
 ---
 title:  Imprint and Privacy Notice
 subtitle: 
-bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
+bigimg: [{src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}]
 ---
 
 # Imprint 
 
-Hasso Plattner Institut for Digital Engineering gGmbH
-Prof.-Dr.-Helmert-Str. 2-3
-14482 Potsdam
-Phone: +49 (0)331 5509-0
-Fax: +49 (0)331 5509-129
-Email: hpi-info(at)hpi.de
+Hasso-Plattner-Institut für Digital Engineering gGmbH
 
-Website: www.hpi.de
+* Prof.-Dr.-Helmert-Str. 2-3
+* 14482 Potsdam
+* Phone: +49 (0)331 5509-0
+* Fax: +49 (0)331 5509-129
+* Email: hpi-info(at)hpi.de
+* Website: www.hpi.de
 
 Authorized Representative Managing Directors: 
-Prof. Dr. Tobias Friedrich
-Prof. Dr. Ralf Herbrich
-Dr. Marcus Kölling
-Registry Office: Potsdam District Court 
-Register Number: HRB 12184
-Tax Id: DE812987194
+* Prof. Dr. Tobias Friedrich
+* Prof. Dr. Ralf Herbrich
+* Registry Office: Potsdam District Court 
+* Register Number: HRB 12184
+* Tax Id: DE812987194
 
-Persons responsible for content:
-Prof. Dr. Tobias Friedrich
-Prof. Dr. Ralf Herbrich
-Dr. Marcus Kölling
+Texts: HPI AI Service Centre Team @ Hasso-Plattner-Institut
 
 ### Editor 
 Hasso Plattner Institut
@@ -84,7 +80,7 @@ Generally, your personal data remains within our area of responsibility, except 
 
 The responsible party for the processing of personal data on this website is:
 
-Hasso Plattner Institut for Digital Engineering gGmbH,
+Hasso-Plattner-Institut für Digital Engineering gGmbH,
 Campus Griebnitzsee
 Prof.-Dr.-Helmert-Str. 2-3,
 Phone: +49 (0)331 5509-0,
@@ -92,7 +88,7 @@ Telefax: +49 (0)331 5509-129,
 Email: hpi-info(at)hpi.de.
 
 You may contact our data protection officer at:
-Data Protection Officer, Hasso Plattner Institut for Digital Engineering gGmbH,
+Data Protection Officer, Hasso-Plattner-Institut für Digital Engineering gGmbH,
 Prof.-Dr.-Helmert-Str. 2-3,
 14482 Potsdam,
 Germany,

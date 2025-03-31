@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "AI Maker Community" # Set a different text for the header on the home page
-  subtitle = "By AI Service Centre @ Hasso Plattner Institut"
+  subtitle = "By AI Service Centre @ Hasso Plattner Institute"
   mainSections = ["post","posts"]
   #logo = "img/logo_4.png" # Expecting square dimensions
   favicon = "img/favicon_4.png"
@@ -34,15 +34,15 @@ pygmentsCodefencesGuessSyntax = true
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 [[Params.bigimg]]
-  src = "img/triangle.jpg"
+  src = "img/banner.png"
   desc = ""
 [[Params.bigimg]]
-  src = "img/sphere.jpg"
+  src = "img/banner.png"
   desc = ""
   # position: see values of CSS background-position.
   position = "center top"
 [[Params.bigimg]]
-  src = "img/hexagon.jpg"
+  src = "img/banner.png"
   desc = ""
 
 [Author]
