@@ -8,9 +8,9 @@ tags: ["example", "photoswipe"]
 Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](https://photoswipe.com) . 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
-  {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
-  {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
+  {{< figure thumb="-thumb" link="/img/banner.png" >}}
+  {{< figure thumb="-thumb" link="/img/banner.png" caption="Banner" >}}
+  {{< figure thumb="-thumb" link="/img/banner.png" caption="Banner" alt="This is a long comment about a triangle" >}}
 {{< /gallery >}}
 
 <!--more-->
@@ -18,9 +18,9 @@ Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.
 The above gallery was created using the following shortcodes:
 ```
 {{</* gallery caption-effect="fade" */>}}
-  {{</* figure thumb="-thumb" link="/img/hexagon.jpg" */>}}
-  {{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
-  {{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
+  {{</* figure thumb="-thumb" link="/img/banner.png" */>}}
+  {{</* figure thumb="-thumb" link="/img/banner.png" caption="Banner" */>}}
+  {{</* figure thumb="-thumb" link="/img/banner.png" caption="Banner" alt="This is a long comment about a triangle" */>}}
 {{</* /gallery */>}}
 ```
 

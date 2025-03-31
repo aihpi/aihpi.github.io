@@ -35,16 +35,16 @@ pygmentsCodefencesGuessSyntax = true
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 #[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
+#  src = "img/banner.png"
+#  desc = "Banner"
 #[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
+#  src = "img/banner.png"
+#  desc = "Banner"
 #  # position: see values of CSS background-position.
 #  position = "center top"
 #[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+#  src = "img/banner.png"
+#  desc = "Banner"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")

@@ -1,12 +1,10 @@
 ---
 title: Home
 subtitle: Welcome to the AI Maker Community Blog by AI Service Centre Berlin Brandenburg of Hasso Plattner Institut
-bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
+bigimg: [{src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}]
 ---
 
-[AI Service Centre Berlin Brandenburg @ HPI](https://hpi.de/kisz/home.html) is one of four service centers for artificial intelligence (AI) funded by the [German Federal Ministry of Education and Research (BMBF)](https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education). Our goal is to improve access to AI technology and to lower AI's financial and technological barriers in business and society. 
-
-To help solve societal challenges in areas such as education, climate change, care, administration, medicine, and manufacturing, we are creating an infrastructure that facilitates exchange between basic research, applied science, and companies and enables the promotion of entrepreneurial innovation by start-ups.
+The [AI Service Centre Berlin Brandenburg @ HPI](https://hpi.de/kisz) is one of four service centers for artificial intelligence (AI) funded by the [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/EN/Home/home_node.html). Our goal is to improve access to AI technology and to lower AI's financial and technological barriers in business and society.
 
 ![](/img/ai_centers_2.png)
 

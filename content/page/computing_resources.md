@@ -2,12 +2,12 @@
 ---
 title: Computing Resources
 subtitle: We provide computing resources to develop AI applications
-bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
+bigimg: [{src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}, {src: "/img/banner.png", desc: ""}]
 ---
 
 # AI Services Computing Resources
 
-KISZ provides a heterogeneous AI infrastructure that meets the requirements and needs of research, startups, or small/medium-sized enterprises. In addition to a specialized training and inference cluster, it includes an ARM-based system and small and medium general-purpose servers. This infrastructure enables:
+The AI Service Centre provides a heterogeneous AI infrastructure that meets the requirements and needs of research, startups, or small/medium-sized enterprises. In addition to a specialized training and inference cluster, it includes an ARM-based system and small and medium general-purpose servers. This infrastructure enables:
 
 * Exploration of edge applications
 * Comparison of costs and performance of different hardware types
@@ -19,7 +19,7 @@ KISZ provides a heterogeneous AI infrastructure that meets the requirements and 
 - GPU-based systems for training and inference
 - High-performance computing (HPC) resources
 - Cost and performance analysis for various workloads and hardware
-- Please have a look at our [contact form](https://hpi.de/das-hpi/registrierung/ki-servicezentrum-rechenressourcen/) for questions on different requirements
+- Please have a look at our [portal](https://aisc.hpi.de) for submitting a hardware request.
 
 ## Heterogeneous Infrastructure
 - **Availability:** Starting at the end of 2023
